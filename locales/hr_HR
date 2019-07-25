@@ -211,6 +211,18 @@ abmon   "sij";"velj";/
         "srp";"kol";/
         "ruj";"lis";/
         "stu";"pro"
+alt_mon "sije<U010D>anj";/
+        "velja<U010D>a";/
+        "o<U017E>ujak";/
+        "travanj";/
+        "svibanj";/
+        "lipanj";/
+        "srpanj";/
+        "kolovoz";/
+        "rujan";/
+        "listopad";/
+        "studeni";/
+        "prosinac"
 mon     "sije<U010D>nja";/
         "velja<U010D>e";/
         "o<U017E>ujka";/

@@ -189,6 +189,18 @@ abmon   "sty";"lut";/
         "lip";"sie";/
         "wrz";"pa<U017A>";/
         "lis";"gru"
+alt_mon "stycze<U0144>";/
+        "luty";/
+        "marzec";/
+        "kwiecie<U0144>";/
+        "maj";/
+        "czerwiec";/
+        "lipiec";/
+        "sierpie<U0144>";/
+        "wrzesie<U0144>";/
+        "pa<U017A>dziernik";/
+        "listopad";/
+        "grudzie<U0144>"
 mon     "stycznia";/
         "lutego";/
         "marca";/

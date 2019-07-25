@@ -283,6 +283,19 @@ day		"Ned<U011B>le";/
 		"P<U00E1>tek";/
 		"Sobota"
 
+alt_mon		"leden";/
+		"<U00FA>nor";/
+		"b<U0159>ezen";/
+		"duben";/
+		"kv<U011B>ten";/
+		"<U010D>erven";/
+		"<U010D>ervenec";/
+		"srpen";/
+		"z<U00E1><U0159><U00ED>";/
+		"<U0159><U00ED>jen";/
+		"listopad";/
+		"prosinec"
+
 % Obávám se, že čeština žádné zkratky pro měsíce nezná :-)
 % Zkratky vytvořené podle pravidel zkracování, docela neobvyklé
 %abmon		"len";/
@@ -354,7 +367,7 @@ d_fmt 		"%-d.%-m.%Y"
 
 t_fmt		"%H:%M:%S"
 
-t_fmt_ampm	"%I:%M:%S"
+t_fmt_ampm	""
 
 am_pm   	"";""
 

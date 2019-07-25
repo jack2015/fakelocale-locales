@@ -100,6 +100,18 @@ day        "diumenge";/
            "dijous";/
            "divendres";/
            "dissabte"
+ab_alt_mon "gen.";/
+           "febr.";/
+           "mar<U00E7>";/
+           "abr.";/
+           "maig";/
+           "juny";/
+           "jul.";/
+           "ag.";/
+           "set.";/
+           "oct.";/
+           "nov.";/
+           "des."
 abmon      "de gen.";/
            "de febr.";/
            "de mar<U00E7>";/
@@ -112,6 +124,18 @@ abmon      "de gen.";/
            "d<U2019>oct.";/
            "de nov.";/
            "de des."
+alt_mon    "gener";/
+           "febrer";/
+           "mar<U00E7>";/
+           "abril";/
+           "maig";/
+           "juny";/
+           "juliol";/
+           "agost";/
+           "setembre";/
+           "octubre";/
+           "novembre";/
+           "desembre"
 mon        "de gener";/
            "de febrer";/
            "de mar<U00E7>";/
