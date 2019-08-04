@@ -24,14 +24,14 @@ escape_char /
 % Users: general
 
 LC_IDENTIFICATION
-title      "Norwegian (Bokm<U00E5>l) locale for Norway"
+title      "Norwegian (Nyn<U00E5>rsk) locale for Norway"
 source     "Norsk Standardiseringsforbund"
 address    "University Library, Drammensveien 41, N-9242 Oslo, Norge"
 contact    ""
 email      "bug-glibc-locales@gnu.org"
 tel        ""
 fax        ""
-language   "Norwegian Bokm<U00E5>l"
+language   "Norwegian Nyn<U00E5>rsk"
 territory  "Norway"
 revision   "1.0"
 date       "2000-06-29"
@@ -194,14 +194,14 @@ grouping                3;3
 END LC_NUMERIC
 
 LC_TIME
-abday       "s<U00F8>.";"ma.";"ti.";"on.";"to.";"fr.";"l<U00F8>."
-day         "s<U00F8>ndag";/
-            "mandag";/
-            "tirsdag";/
+abday       "ma.";"ti.";"on.";"to.";"fr.";"l<U00F8>.";"su."
+day         "m<U+00E5>ndag";/
+            "tysdag";/
             "onsdag";/
             "torsdag";/
             "fredag";/
-            "l<U00F8>rdag"
+            "laurdag ";/
+            "sundag"
 abmon       "jan.";"feb.";/
             "mars";"april";/
             "mai";"juni";/
