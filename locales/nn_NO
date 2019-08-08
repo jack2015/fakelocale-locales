@@ -16,7 +16,7 @@ escape_char /
 % Tel: +47 - 22859109
 % Fax: +47 - 22434497
 % Email: kolbjorn.aambo@usit.uio.no
-% Language: no
+% Language: nn
 % Territory: NO
 % Revision: 4.3
 % Date: 1996-10-15
@@ -24,14 +24,14 @@ escape_char /
 % Users: general
 
 LC_IDENTIFICATION
-title      "Norwegian (Nyn<U00E5>rsk) locale for Norway"
+title      "Norwegian (Nynorsk) locale for Norway"
 source     "Norsk Standardiseringsforbund"
 address    "University Library, Drammensveien 41, N-9242 Oslo, Norge"
 contact    ""
 email      "bug-glibc-locales@gnu.org"
 tel        ""
 fax        ""
-language   "Norwegian Nyn<U00E5>rsk"
+language   "Norwegian Nynorsk"
 territory  "Norway"
 revision   "1.0"
 date       "2000-06-29"
@@ -54,7 +54,7 @@ LC_COLLATE
 copy "iso14651_t1"
 
 % CLDR collation rules for Norwegian (Bokmål):
-% (see: https://unicode.org/cldr/trac/browser/trunk/common/collation/nb.xml)
+% (see: https://unicode.org/cldr/trac/browser/trunk/common/collation/nn.xml)
 %
 % &D<<đ<<<Đ<<ð<<<Ð
 % &t<<<þ/h
@@ -64,7 +64,7 @@ copy "iso14651_t1"
 %
 % And CLDR also lists the following
 % index characters:
-% (see: https://unicode.org/cldr/trac/browser/trunk/common/main/nb.xml)
+% (see: https://unicode.org/cldr/trac/browser/trunk/common/main/nn.xml)
 %
 % <exemplarCharacters type="index">[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Æ Ø Å]</exemplarCharacters>
 %
@@ -195,7 +195,7 @@ END LC_NUMERIC
 
 LC_TIME
 abday       "ma.";"ti.";"on.";"to.";"fr.";"l<U00F8>.";"su."
-day         "m<U+00E5>ndag";/
+day         "m<U00E5>ndag";/
             "tysdag";/
             "onsdag";/
             "torsdag";/
@@ -265,9 +265,9 @@ country_ab2 "NO"
 country_ab3 "NOR"
 country_num 578
 country_car  "N"
-% Bokmål
-lang_name    "norsk bokm<U00E5>l"
-lang_ab      "nb"
-lang_term    "nob"
-lang_lib    "nob"
+% Nynorsk
+lang_name    "norsk nynorsk"
+lang_ab      "nn"
+lang_term    "nno"
+lang_lib     "nno"
 END LC_ADDRESS
