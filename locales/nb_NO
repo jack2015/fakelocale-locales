@@ -194,14 +194,14 @@ grouping                3;3
 END LC_NUMERIC
 
 LC_TIME
-abday       "ma.";"ti.";"on.";"to.";"fr.";"l<U00F8>.";"s<U00F8>."
-day         "mandag";/
+abday       "s<U00F8>.";"ma.";"ti.";"on.";"to.";"fr.";"l<U00F8>."
+day         "s<U00F8>ndag";/
+            "mandag";/
             "tirsdag";/
             "onsdag";/
             "torsdag";/
             "fredag";/
-            "l<U00F8>rdag";/
-            "s<U00F8>ndag"
+            "l<U00F8>rdag"
 abmon       "jan.";"feb.";/
             "mars";"april";/
             "mai";"juni";/
